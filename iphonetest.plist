@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://apps.gem-soft.com/app/goa/iphonetest.ipa</string>
+					<string>http://cg.gem-soft.com/ScnuIphone.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.oz.gplatform.mobile.test</string>
+				<string>cn.oz.gplatform.mobile2.test</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>GOA-TEST</string>
+				<string>ScnuIphone</string>
 			</dict>
 		</dict>
 	</array>
